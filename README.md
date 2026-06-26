@@ -191,7 +191,7 @@ This software platform was developed as a graduation project submitted in partia
 ### Team Leader :
 
 **Nada Khaled(Al-Eaqrab)**
-### Team Members 
+### Team Members :
 **Dina Salah**  
 **Christin Mokbel** 
 

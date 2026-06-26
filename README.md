@@ -23,7 +23,6 @@ Aligned with Egypt’s Vision 2030 for Digital Transformation in Higher Educatio
 - [👥 The Team & Acknowledgments](#-the-team--acknowledgments)
 
 ---
----
 
 ## 📄 Full Project Documentation & Diagrams
 

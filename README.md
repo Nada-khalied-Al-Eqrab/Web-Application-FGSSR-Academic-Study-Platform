@@ -23,7 +23,15 @@ Aligned with Egypt’s Vision 2030 for Digital Transformation in Higher Educatio
 - [👥 The Team & Acknowledgments](#-the-team--acknowledgments)
 
 ---
+---
 
+## 📄 Full Project Documentation & Diagrams
+
+💡 **Looking for the complete system blueprints?** You can access the comprehensive engineering documentation, software specifications, and all interactive architectural diagrams (UML, C4 Model, DFD, and EERD) by clicking the link below:
+
+👉 [**Click Here to View the FGSSR Documentation Portal**](https://nada-khalied-al-eqrab.github.io/FGSSR-Academic-Study-Platform-Documentation/)
+
+---
 ## ✨ Key Features
 
 The platform consists of several highly-integrated subsystems engineered under rigorous software engineering principles:

@@ -188,12 +188,12 @@ http://127.0.0.1:8000
 This software platform was developed as a graduation project submitted in partial fulfillment of the requirements for the **Diploma in Computer Science** at the **Faculty of Graduate Studies for Statistical Research (FGSSR), Cairo University**.
 
 ## 👨‍💻 Developed By
+### Team Leader :
 
-| ENG  |
-|---------|
-| **Nada Khaled(Al-Eaqrab)** |
-| **Dina Salah** | 
-| **Christin Mokbel** | 
+**Nada Khaled(Al-Eaqrab)**
+### Team Members 
+**Dina Salah**  
+**Christin Mokbel** 
 
 ---
 

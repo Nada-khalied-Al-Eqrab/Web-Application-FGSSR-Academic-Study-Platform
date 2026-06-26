@@ -189,11 +189,11 @@ This software platform was developed as a graduation project submitted in partia
 
 ## 👨‍💻 Developed By
 
-| Student |
+| ENG  |
 |---------|
-| **Nada Khaled Said Ibrahim** |
-| **Dina Salah El-Sayed Tawfik** | 
-| **Christin Mokbel Elias Eskaros** | 
+| **Nada Khaled(Al-Eaqrab)** |
+| **Dina Salah** | 
+| **Christin Mokbel** | 
 
 ---
 

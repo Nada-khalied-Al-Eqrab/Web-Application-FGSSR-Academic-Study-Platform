@@ -1,0 +1,152 @@
+body {
+  font-family: 'Tajawal', sans-serif;
+}
+
+@media (max-width: 992px) {
+  .Phone {
+    flex: 0 0 30%;
+    max-width: 30%;
+  }
+}
+
+/* للشاشات الصغيرة (موبايل): كارت واحد في الصف */
+@media (max-width: 576px) {
+  .Phone {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+.frame {
+
+  overflow: hidden;
+  border-radius: 10px; /* اختياري */
+  box-shadow: 0 0 10px rgba(0,0,0,0.2); /* اختياري */
+  border: none;
+}
+
+@media (max-width: 992px) {
+  .frame {
+    width: 100%;
+    height: 800px;
+  }
+}
+
+/* للشاشات الصغيرة (موبايل) */
+@media (max-width: 576px) {
+  .frame {
+    width: 100%;
+    height: 600px;
+  }
+}
+
+
+
+
+#chat-toggle {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  /* background: linear-gradient(135deg, #f0a500, #e59d02);  */
+  /* تدرج جذاب */
+  /* color: white; */
+  width: 70px;
+  height: 70px;
+  font-size: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 1000;
+  /* box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25); */
+  transition: all 0.3s ease;
+}
+
+#chat-toggle:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #7460ee, #8a02e5);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
+}
+
+
+.chat-container {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: 360px;
+  max-height: 500px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 1000;
+}
+
+.chat-container.hidden {
+  display: none;
+}
+
+.chat-header {
+  background-color: #7460ee;
+  color: white;
+  padding: 10px 15px;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chat-box {
+  flex-grow: 1;
+  padding: 15px;
+  overflow-y: auto;
+}
+
+.chat-input {
+  display: flex;
+  border-top: 1px solid #ddd;
+}
+
+.chat-input input {
+  flex-grow: 1;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+
+.chat-input button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #7460ee;
+  color: white;
+  cursor: pointer;
+
+}
+
+.message {
+  margin: 10px 0;
+}
+
+.user {
+  text-align: right;
+  color: #333;
+}
+
+.bot {
+  text-align: left;
+  color: #7460ee;
+}
+
+.bot button {
+  margin: 5px 0;
+  padding: 5px 10px;
+  border: none;
+  background-color: #d0c9faa4;
+  cursor: pointer;
+  border-radius: 5px;
+}

@@ -1,0 +1,8 @@
+/* Edit */
+.form-control:focus {
+    color: var(--bs-body-color)!important;
+    background-color: var(--bs-body-bg)!important;
+    border-color: #163dd4d9!important;
+    outline: 0;
+    box-shadow: 0 0 0 .25rem rgb(13 110 253 / 0%)!important;
+}
